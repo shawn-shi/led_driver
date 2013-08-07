@@ -12,6 +12,8 @@
 #include <asm/gpio.h>
 #include <plat/gpio-cfg.h>
 
+/*version test*/
+
 #define ALLOW_OPEN_TIMES	1
 
 static int major = 0;
